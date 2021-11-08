@@ -1,0 +1,12 @@
+{
+  "name": "todo-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Dilan Atondo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.5",
+    "uuid": "^8.3.2"
+  }
+}
